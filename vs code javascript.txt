@@ -1,0 +1,25 @@
+1.run javascript in terminal
+node filename.js
+
+2.comment multiple line of code in vs code is (ctr+k+c)
+uncomment (ctr+k+u)
+
+3.Variables can be defined using var keyword.
+ Variables defined without var keyword become global variables.
+
+4.With the help of new keyword you can create a new object.
+var str = new String("Hello world")  --> This is a object
+var str = "Hello world"   --> This is a string
+
+
+5.function in js
+function functionName(Argument){}   // this is genral way
+you can another way also, you can store function in variable
+var functionName = function(Argument){}      //most of library use this way
+
+calling in function same way
+
+5.If you are returing anything the anything from function there is no need to write {}
+
+
+5.API = DOM + JavaScript
